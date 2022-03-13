@@ -7,7 +7,7 @@ I've been making tools and utilities to hopefully make Administration of Snow pl
 ## Useful things
 These are probably the most useful things I've made. 
 
-* [Snow-Log-Collector](https://github.com/goosetuv/Snow-Log-Collector/)
+* [Snow Log Collector](https://github.com/goosetuv/Snow-Log-Collector/)
 * [Snow Platform Monitor](https://github.com/goosetuv/Snow-Platform-Monitor)
 * [Snow Update Checker](https://github.com/goosetuv/Snow-Update-Checker)
 * [Snow Version API](https://snwapi.com)
