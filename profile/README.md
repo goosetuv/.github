@@ -20,3 +20,6 @@ I do have other tools but unfortunately, I had to private them (_for now..._).
 * I started working with Snow at a partner company as an apprentice
 * I write some mangled code but it works ♥
 * I use these in my own job
+
+## DMCA Notices
+If you believe for any reason that I am infringing your copyright or trademarks, before contacting GitHub or hosting providers, please contact **me** at **laim.scot** and we can resolve where necessary.  Due to work commitments, please allow up to 48hrs for a response.  Once an email has been received, the specific Repository will be made private until resolved.
